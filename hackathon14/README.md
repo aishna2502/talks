@@ -9,11 +9,11 @@ Byld's first hackathon of the (academic) year! Themes: Make a Game, Make Someone
 Participation Stats: 120-130 students attended, 24 teams presented.
 
 ## Mentors
-- Sharmishtha Gupta
+- Sharmistha Gupta
 - Deepak Srivatsav
 
 ## Judges
-- Sharmishtha Gupta
+- Sharmistha Gupta
 - Siddharth Yadav
 - Peeyush Kushwaha
 
